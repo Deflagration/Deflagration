@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Deflagration
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jim Gruman
 
-<!---
-Deflagration/Deflagration is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+jgruman@protectoseal.com
+
+Product Manager
+The Protectoseal Company
+P: +1 630.694.7080
+ 
+[Book 30 minutes with Jim](https://outlook.office.com/bookwithme/user/f413daccf1c440aa9a732e1b7d893c3d@protectoseal.com)
+
+This collection of repositories includes:
+
+- ProFlow product sizing web application hosted on Azure
+- protectoseal.com wordpress base artifacts
+- Protectotheme css theming for analytics and dashboards
+- RepScorecard monthly reporting Quarto scripts

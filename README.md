@@ -14,3 +14,6 @@ This collection of repositories includes:
 - protectoseal.com wordpress base artifacts
 - Protectotheme css theming for analytics and dashboards
 - RepScorecard monthly reporting Quarto scripts
+
+This is a work account. 
+My personal projects are over at [opus1993](https://github.com/opus1993)
